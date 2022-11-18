@@ -19,9 +19,7 @@
 <a href="https://linkedin.com/in/aizidro" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-AndreIzidro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/andre.fnz" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-AndreIzidro-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+
  <a href = "mailto:andreizidru@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-AndreIzidro-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
