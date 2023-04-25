@@ -7,7 +7,7 @@
 
 - I’m currently working at [SMR Automitive Brasil]
 
-- Ask me about **Java, HTML, CSS**
+- Ask me about **Java, HTML, CSS, JavaScritp**
 
 ## Contact
 
