@@ -42,3 +42,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+### PNG
+
+
+LOAD DATA INFILE 'D:/prova/BCD/CSV/concessionarias.CSV' INTO TABLE concessionaria FIELDS TERMINATED BY ';' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
+LOAD DATA INFILE 'D:/prova/BCD/CSV/automoveis.CSV' INTO TABLE automoveis FIELDS TERMINATED BY ';' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
+LOAD DATA INFILE 'D:/prova/BCD/CSV/locacao.CSV' INTO TABLE locacao FIELDS TERMINATED BY ';' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
+LOAD DATA INFILE 'D:/prova/BCD/CSV/clientes.CSV' INTO TABLE clientes FIELDS TERMINATED BY ';' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
+
